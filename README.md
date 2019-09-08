@@ -13,7 +13,7 @@
 <img src="img/4.gif"/>
 </div>
 <div>
-<img src="img/5.gif"/>
+<img src="img/5.png"/>
 </div>
 <div>
 <img src="img/6.gif"/>
